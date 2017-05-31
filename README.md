@@ -1,7 +1,7 @@
 # PHP Task: Temperature Conversion.
 Temperature is usually measured in either **Celsius (°C)**, **Fahrenheit (°F)**, **Kelvin (°K)** or even **Rankine (°R)**.
 
-__Rankine is an uncommon unit for measuring temperature, however it is still used.__
+_Rankine is an uncommon unit for measuring temperature, however it is still used._
 
 Below are the formulas used in converting temperatures in celsius from one unit to another.
 
